@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: SEEK 23
+subtitle: what a lovely scene-ry!
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: p2.jpg
+thumbnail: p2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

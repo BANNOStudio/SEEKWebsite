@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: SEEK 23
+subtitle: dancing the night away, but only til 02 
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: p1.jpg
+thumbnail: p1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
