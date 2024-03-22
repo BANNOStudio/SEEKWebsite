@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: SEEK 22
+subtitle: ...for all ages
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: p4.jpeg
+thumbnail: p4.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

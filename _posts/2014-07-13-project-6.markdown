@@ -1,11 +1,11 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: SEEK 22
+subtitle: construction since 1962
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: p6.jpeg
+thumbnail: p6.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
